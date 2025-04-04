@@ -1,0 +1,2 @@
+¡Hola! Este es un archivo de prueba para el servidor MCP.
+Fecha de creación: 2024-04-04 
